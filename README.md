@@ -1,0 +1,2 @@
+# Largest-Range
+when given an a integer array, this function returns an integer array of size 2, the first element of the output array is the smallest value of the largest range in the input array while the second element in the output array is the largest value of the largest range in the input array. A range of numbers is a set of numbers that are one after the other on the set of the integers (i.e {1,2,3,4} is a range), the integers in the input array do not need to be adjacent or sorted in order for them to form ranges
